@@ -29,7 +29,7 @@ This project is aimed for the creation of payment interface
 
 ## Demo
 
-You can see []()
+You can see [https://payment-ui-delta.vercel.app]( https://payment-ui-delta.vercel.app)
 
 ## How I think this task
 
@@ -67,5 +67,3 @@ Helvetica Neue | Roboto
 Remove HTML5 Reset Stylesheet - [http://html5doctor.com/html-5-reset-stylesheet/](http://html5doctor.com/html-5-reset-stylesheet/)
 
 Media Queries - [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-# payment-ui
-# payment-ui
